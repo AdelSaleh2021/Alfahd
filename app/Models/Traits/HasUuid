@@ -1,0 +1,12 @@
+<?php
+
+namespace App\Models\Traits;
+
+trait HasUuid
+{
+    public static function booted()
+    {
+        //
+    }
+
+}
